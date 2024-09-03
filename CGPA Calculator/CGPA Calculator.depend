@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1724941131 source:c:\users\m.h\desktop\c++ codes\projects\alpha1\main.cpp
+	<bits/stdc++.h>
+
+1725318282 source:c:\users\m.h\desktop\c++ codes\codealpha\cgpa calculator\main.cpp
+	<bits/stdc++.h>
+	<iomanip>
+

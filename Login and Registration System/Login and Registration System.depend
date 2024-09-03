@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1725116479 source:c:\users\m.h\desktop\c++ codes\projects\codealpha - login and registration system\main.cpp
+	<bits/stdc++.h>
+	<fstream>
+
