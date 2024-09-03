@@ -1,0 +1,40 @@
+1. CGPA Calculator:
+
+Detailed Description:
+The CGPA Calculator is a C++ program designed to assist students in calculating their Semester GPA and Cumulative GPA over
+multiple semesters. It allows the user to input course information, including course names, credit hours, and grades. The program
+then calculates the GPA for each semester and the overall CGPA, providing a summary report of all courses and their respective grades.
+
+Key Features:
+-Grade Validation: The program ensures accurate input by validating that grades are within the range of 0-100.
+-Customizable Grading Scale: Grades are converted to a 4.0 scale using a customizable grading system.
+-Summary Report: Generates a detailed summary report of the courses and grades for each semester, along with the calculated GPAs.
+-User-Friendly Interface: The program includes clear prompts and output formatting for ease of use.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2. Login and Registration System:
+
+Detailed Description:
+This project involves creating a basic Login and Registration System in C++ that allows users to register new accounts and log in using
+their credentials. The program stores user data in a text file, checking for existing usernames to prevent duplicates and ensuring secure access.
+
+Key Features:
+-File Handling: User credentials are securely stored and retrieved from a text file, demonstrating basic file handling in C++.
+-Username Verification: The program checks for existing usernames during registration to avoid duplication and prompts users to log in if the username already exists.
+-Login Verification: Ensures that users can only log in with the correct password, offering a basic security layer.
+-User Interaction: Includes interactive prompts that guide the user through registration and login processes.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3. Sudoku Solver:
+
+Detailed Description:
+The Sudoku Solver is a C++ program designed to solve Sudoku puzzles. It provides users with the option to input their own Sudoku grid or select from pre-defined
+grids of varying difficulty levels (Easy, Medium, Hard). The program checks the validity of the input grid and uses a backtracking algorithm to find the solution.
+
+Key Features:
+-Backtracking Algorithm: Implements a backtracking algorithm to efficiently solve the Sudoku puzzle, ensuring that all rows, columns, and sub-grids meet the Sudoku rules.
+-Grid Validation: Validates the initial grid to ensure that the puzzle is solvable before attempting to solve it.
+-Custom and Pre-defined Grids: Allows users to either input their own puzzle or choose from pre-defined grids with different difficulty levels.
+-User Interaction: The program provides a clear interface for users to input and view the Sudoku grid, as well as the solution.
